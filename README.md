@@ -15,3 +15,4 @@ OUTPUT
 https://docs.google.com/document/d/13zOu0D1Oj9GRxhzoqI3iTO7lwo8hXilp/edit?usp=sharing&ouid=108564216582215558863&rtpof=true&sd=true
 
 RESULT: 
+Thus, the comparative analysis of different prompting patterns was successfully performed. It was observed that basic prompts provide better quality, higher accuracy, and greater depth compared to naïve prompts in most scenarios. Clear and structured prompts significantly improve the effectiveness of AI-generated responses.
